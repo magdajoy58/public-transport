@@ -1,4 +1,4 @@
-baseURL: "public-transport-tricity.netlify.app"
+baseURL: "https://public-transport-tricity.netlify.app"
 languageCode: en-us
 title: Public transport in Tricity
 theme: PaperMod
